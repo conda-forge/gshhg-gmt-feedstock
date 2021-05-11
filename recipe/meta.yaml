@@ -8,7 +8,7 @@ package:
 
 source:
   fn: {{ name }}-{{ version }}.tar.gz
-  url: ftp://ftp.iag.usp.br/pub/gmt/{{ name }}-{{ version }}.tar.gz
+  url: https://generic-mapping-tools.iag.usp.br/gmt/{{ name }}-{{ version }}.tar.gz
   sha256: {{ sha256 }}
 
 build:
