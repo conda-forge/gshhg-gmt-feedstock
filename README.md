@@ -3,7 +3,7 @@ About gshhg-gmt
 
 Home: http://www.soest.hawaii.edu/wessel/gshhg
 
-Package license: LGPL-3.0
+Package license: LGPL-3.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/gshhg-gmt-feedstock/blob/master/LICENSE.txt)
 
